@@ -318,7 +318,9 @@ section {
 .section-title {
   padding-bottom: 30px;
 }
-
+.education{
+  font-size: 20px;
+}
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
@@ -1103,4 +1105,7 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+.clicklink a:hover{
+  font-size: 22px;
 }
